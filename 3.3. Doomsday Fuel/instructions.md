@@ -51,25 +51,25 @@ To provide a Java solution, edit solution.java
 Test cases
 ==========
 
-Inputs:
-    (int) m = [
+Input:  
+    `(int) m = [
                [0, 2, 1, 0, 0],
                [0, 0, 0, 3, 4],
                [0, 0, 0, 0, 0],
                [0, 0, 0, 0, 0],
                [0, 0, 0, 0, 0]
-           ]
-Output:
-    (int list) [7, 6, 8, 21]
+           ]`  
+Output:  
+    `(int list) [7, 6, 8, 21]`
 
-Inputs:
-    (int) m = [
+Input:  
+    `(int) m = [
                [0, 1, 0, 0, 0, 1],
                [4, 0, 0, 3, 2, 0],
                [0, 0, 0, 0, 0, 0],
                [0, 0, 0, 0, 0, 0],
                [0, 0, 0, 0, 0, 0],
                [0, 0, 0, 0, 0, 0]
-           ]
-Output:
-    (int list) [0, 3, 2, 9, 14]
+           ]`  
+Output:  
+    `(int list) [0, 3, 2, 9, 14]`
