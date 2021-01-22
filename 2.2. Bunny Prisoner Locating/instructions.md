@@ -25,14 +25,14 @@ To provide a Java solution, edit solution.java
 Test cases
 ==========
 
-Inputs:
-    (int) x = 3
-    (int) y = 2
-Output:
-    (string) "9"
+Inputs:  
+    `(int) x = 3`  
+    `(int) y = 2`  
+Output:  
+    `(string) "9"`
 
-Inputs:
-    (int) x = 5
-    (int) y = 10
-Output:
-    (string) "96"
+Inputs:  
+    `(int) x = 5`  
+   `(int) y = 10`  
+Output:  
+   ` (string) "96"`
