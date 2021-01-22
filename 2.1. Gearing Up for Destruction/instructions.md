@@ -20,12 +20,12 @@ To provide a Java solution, edit solution.java
 Test cases
 ==========
 
-Inputs:
-    (int) pegs = [4, 30, 50]
-Output:
-    (int) (12, 1)
+Inputs:  
+    `(int) pegs = [4, 30, 50]`  
+Output:  
+    `(int) (12, 1)`
 
-Inputs:
-    (int) pegs = [4, 17, 50]
-Output:
-    (int) (-1, 1)
+Inputs:  
+   `(int) pegs = [4, 17, 50]`  
+Output:  
+   `(int) (-1, 1)`
